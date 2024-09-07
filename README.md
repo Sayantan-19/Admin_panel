@@ -1,5 +1,5 @@
-How To Run The Project?
-To run this project, you must have installed a virtual server i.e XAMPP on your PC .
+***How To Run The Project?
+**To run this project, you must have installed a virtual server i.e XAMPP on your PC .
 
 After Starting Apache and MySQL in XAMPP, follow the following steps.
 
